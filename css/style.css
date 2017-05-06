@@ -1711,6 +1711,25 @@ twitterwidget {
 	height: 100%;
 }
 
+
+
+/* --------------------------------
+
+EXCHANGES
+
+-------------------------------- */
+
+.exchanges {
+  font-size: 48px;
+  color: #fff;
+  text-align: center;
+  margin: 40px;
+}
+
+.exchange-item {
+  margin: 20px;
+}
+
 /* --------------------------------
 
 TEAM
