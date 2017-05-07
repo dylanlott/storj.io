@@ -2237,6 +2237,12 @@ Token Sale
   text-transform: uppercase;
 }
 
+.token-dist {
+  color: #2683ff !important;
+  font-size: 90px;
+  margin-top: 15px;
+}
+
 #confirmation-modal p, #confirmation-modal label {
   color: #444;
 }
